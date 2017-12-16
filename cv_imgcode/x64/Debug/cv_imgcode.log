@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\code\c++\cv_imgcode\cv_imgcode\main.cpp(146): warning C4172: 返回局部变量或临时变量的地址: a
+  cv_imgcode.vcxproj -> D:\CODE\C++\cv_imgcode\x64\Debug\cv_imgcode.exe
+  cv_imgcode.vcxproj -> D:\CODE\C++\cv_imgcode\x64\Debug\cv_imgcode.pdb (Full PDB)
